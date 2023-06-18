@@ -126,7 +126,7 @@ print ('--------------------------------')
 
 ## 12. Python is interpreted or compiled ?
 
-print(" Python is an interpreted language, which means the source code of a Python program is converted into bytecode that is then executed by the Python virtual machine ")
+print("Python is an interpreted language, which means the source code of a Python program is converted into bytecode that is then executed by the Python virtual machine ")
 
 
 print ('--------------------------------')
