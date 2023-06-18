@@ -104,3 +104,30 @@ print('l has been coverted to tuple =',(l),type(l))
 
 print ('--------------------------------')
 # ------------------------------------------------
+
+
+## 10.Create a dict of 3 values
+
+d = {'name': 'judy','age': 21, 'hight': 179.5}
+print ('d =',(d),type(d))
+
+
+print ('--------------------------------')
+# ------------------------------------------------
+
+
+## 11. Can we use semi colon ; with python
+
+print ("yes, but python doesn't require it to be used")
+
+
+print ('--------------------------------')
+# ------------------------------------------------
+
+## 12. Python is interpreted or compiled ?
+
+print(" Python is an interpreted language, which means the source code of a Python program is converted into bytecode that is then executed by the Python virtual machine ")
+
+
+print ('--------------------------------')
+# ------------------------------------------------
