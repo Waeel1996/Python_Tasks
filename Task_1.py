@@ -20,3 +20,11 @@ print ('z =',type(z))
 
 s = 'Wael'
 print ('s =', type(s))
+
+
+## 5. Convert the int variable to float :
+
+p = 11
+print ('p =', type(p))
+p = float (p)
+print ('p has been converted to',type(p))
