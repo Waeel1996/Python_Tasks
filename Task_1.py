@@ -10,7 +10,13 @@ y = 10
 print ('y =', type(y))
 
 
-## 3. Create a float variable named z
+## 3. Create a float variable named z :
 
 z = 1.0
 print ('z =',type(z))
+
+
+## 4. Create a string variable names s :
+
+s = 'Wael'
+print ('s =', type(s))
