@@ -1,5 +1,10 @@
-## 1. Create a Boolean variable named x
+## 1. Create a Boolean variable named x :
 
-x = 1
-if x == 1:
-    print (True)
+x = True
+print ('x =', type(x))
+
+
+## 2. Create an integer variable named y :
+
+x = 10
+print ('x =', type(x))
