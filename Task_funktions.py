@@ -33,3 +33,15 @@ print ('f1 =',(f1))
 
 print ('--------------------------------')
 # ------------------------------------------------
+
+# 4. In the above return function , give x and y default values of 0 and call the function with no arguments
+
+def func1(x=0,y=0):
+    return x,y
+f1=func1()
+print ('f1 =',(f1))
+
+
+
+print ('--------------------------------')
+# ------------------------------------------------
