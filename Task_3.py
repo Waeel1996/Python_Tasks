@@ -42,4 +42,10 @@ print ("If we need all the conditions to be true we will use : all")
 print ('--------------------------------')
 # ------------------------------------------------
 
-#
+# 7. What is the differences between if , elif
+
+print ("so the difference is that the code always checks to see if an 'if' statement is true, checks 'elif' statements only if each 'if' and 'elif' statement above it is false")
+
+
+print ('--------------------------------')
+# ------------------------------------------------
