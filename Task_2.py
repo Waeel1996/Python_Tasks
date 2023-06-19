@@ -119,7 +119,7 @@ print ('--------------------------------')
 
 #12. Can we divide 11 by 3 and get an integer number ?
 
-print ('yes we can using the python Floor Divisio Operator')
+print ('yes we can using the python Floor Division Operator')
 y = 11
 print ('y =', (y))
 y = (y) // 3
