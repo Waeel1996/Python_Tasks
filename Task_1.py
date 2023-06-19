@@ -132,7 +132,7 @@ print("Python is an interpreted language, which means the source code of a Pytho
 print ('--------------------------------')
 # ------------------------------------------------
 
-## 13. What is the differences between low level & high level Python Variables Tasks ?
+## 13. What is the differences between low level & high level programing language ?
 
 print ('High-level languages require the use of a compiler or an interpreter for their translation into the machine code. Low-level language requires an assembler for directly translating the instructions of the machine language. These languages have a very low memory efficiency.')
 
