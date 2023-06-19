@@ -75,8 +75,9 @@ print ('--------------------------------')
 
 # 8. Get a list of even numbers from 1 to 100 using for
 
-for x in range (0,101,2):
-    print (x)
+for x in range (0,101):
+    if x%2 ==0:
+        print (x)
 
 
 print ('--------------------------------')
@@ -93,3 +94,11 @@ while x <=100:
 print ('--------------------------------')
 # ------------------------------------------------
 
+# 10. Get a list of even numbers from 1 to 100 using range
+
+for x in range (0,101,2):
+    print (x)
+
+
+print ('--------------------------------')
+# ------------------------------------------------
