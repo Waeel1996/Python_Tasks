@@ -56,3 +56,16 @@ print ('x = 25/5 =',(x))
 
 print ('--------------------------------')
 # ------------------------------------------------
+
+# 7. Multiply the x value by 10 using assignment operator
+
+print ('x =', (x))
+x = (x) * 10
+print ('x = 5x10 =',(x))
+
+
+print ('--------------------------------')
+# ------------------------------------------------
+
+
+# 8. Get module of x on 3 using assignment operators
