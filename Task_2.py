@@ -8,4 +8,9 @@ print ('--------------------------------')
 
 # ------------------------------------------------
 
+# 2. What do we mean by using !=
 
+print("The not-equal-to operator ( != ) returns true if the operands don't have the same value; otherwise, it returns false .")
+
+
+# ------------------------------------------------
