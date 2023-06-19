@@ -73,3 +73,13 @@ print ('No, in Python you cannot use multiple "else" blocks in a row. The "else"
 
 print ('--------------------------------')
 # ------------------------------------------------
+
+# 11. write s simple ternary operator
+
+x = 10
+
+print (True) if x >= 10 else print (False)
+
+
+print ('--------------------------------')
+# ------------------------------------------------
