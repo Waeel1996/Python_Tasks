@@ -49,3 +49,11 @@ print ("so the difference is that the code always checks to see if an 'if' state
 
 print ('--------------------------------')
 # ------------------------------------------------
+
+# 8. What is the differences between elif else
+
+print ("The elif statement allows you to check multiple expressions for TRUE and execute a block of code as soon as one of the conditions evaluates to TRUE, on the other hand, the else keyword decides what to do if the condition is False.")
+
+
+print ('--------------------------------')
+# ------------------------------------------------
