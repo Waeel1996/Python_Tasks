@@ -14,3 +14,12 @@ print("The not-equal-to operator ( != ) returns true if the operands don't have 
 
 
 # ------------------------------------------------
+
+# 3. What is the operator precedence
+
+print ("Operator precedence in Python simply refers to the order of operations. Operators are used to perform operations on variables and values. Python classifies its operators in the following groups: Arithmetic operators. Assignment operators.")
+
+
+# ------------------------------------------------
+
+
