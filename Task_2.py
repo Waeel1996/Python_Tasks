@@ -6,6 +6,7 @@ print ('The = is a simple assignment operator. It assigns values from right side
 print ('--------------------------------')
 # ------------------------------------------------
 
+
 # 2. What do we mean by using !=
 
 print("The not-equal-to operator ( != ) returns true if the operands don't have the same value; otherwise, it returns false .")
@@ -13,6 +14,7 @@ print("The not-equal-to operator ( != ) returns true if the operands don't have 
 
 print ('--------------------------------')
 # ------------------------------------------------
+
 
 # 3. What is the operator precedence
 
@@ -27,8 +29,15 @@ print ('--------------------------------')
 
 
 x = 10
-print(x)
+print('x =', (x))
 
 
 print ('--------------------------------')
 # ------------------------------------------------
+
+
+#5. Increase x value by 15 using assignment operators
+
+x = 10
+x = 10 ++ 15
+print('x = 10 + 15 =', (x))
