@@ -99,3 +99,41 @@ print ('In Python, the "else" can be used with "elif" statements to handle cases
 
 print ('--------------------------------')
 # ------------------------------------------------
+
+# 14. if we have this list [2,4,6,8,10] :
+
+#     1. check to see if 4 in this list or not :
+
+l = [2,4,6,8,10]
+if 4 in l :
+    print ('the List contains the number 4')
+else :
+    print ("the List doesn't contain the number 4")
+
+#     2. check to see if 4 and 6 in this list on not :
+
+l = [2,4,6,8,10]
+if 4 and 6 in l :
+    print ('the List contains the number 4 and 6')
+else :
+    print ("the List doesn't contain the number 4 and 6")
+
+#     3. check to see if 3 or 6 in this list :
+
+l = [2,4,6,8,10]
+if 3 or 6 in l :
+    print ('the List contains the number 3 or 6')
+else :
+    print ("the List doesn't contain the number 3 or 6")
+
+#     4. check to see if 2 , 4 and 5 in this list :
+
+l = [2,4,6,8,10]
+if all ([2,4,5]) in l:
+    print ('the List contains the numbers 2 , 4 and 5')
+else :
+    print ("the List doesn't contains the numbers 2 , 4 and 5")
+
+
+print ('--------------------------------')
+# ------------------------------------------------
