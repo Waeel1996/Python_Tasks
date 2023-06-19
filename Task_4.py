@@ -24,15 +24,15 @@ print ('--------------------------------')
 
 x = 0
 for x in range (11):
-    print (x)
-    if x == 5:
+    if x == 6:
         break
+    print (x)
     
 
 print ('--------------------------------')
 # ------------------------------------------------
 
-#4. Skip the 5 iteration from print
+# 4. Skip the 5 iteration from print
 
 x = 0
 for x in range (11):
@@ -42,3 +42,5 @@ for x in range (11):
 
 print ('--------------------------------')
 # ------------------------------------------------
+
+# 5. Print multiplication table from 1 to 5
