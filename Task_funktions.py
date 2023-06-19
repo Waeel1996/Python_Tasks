@@ -8,3 +8,15 @@ func(1,2)
 
 print ('--------------------------------')
 # ------------------------------------------------
+
+#2. Create a simple function that takes 2 numbers and return their values
+
+def func1(x,y):
+    return x,y
+f1=func1(2,3)
+print ('f1 =',(f1))
+
+
+
+print ('--------------------------------')
+# ------------------------------------------------
