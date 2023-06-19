@@ -57,3 +57,12 @@ print ("The elif statement allows you to check multiple expressions for TRUE and
 
 print ('--------------------------------')
 # ------------------------------------------------
+
+# 9. Can we use more than one elif
+
+print ("yes, elif can be used multiple times in one code")
+
+
+print ('--------------------------------')
+# ------------------------------------------------
+
