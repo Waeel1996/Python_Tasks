@@ -19,3 +19,17 @@ print ('--------------------------------')
 # ------------------------------------------------
 
 # 4. What is the differences between all , and
+
+print ("we use 'all' if all conditions all true, on the other hand use 'and' if we choosed specific conditions to be checked")
+
+
+print ('--------------------------------')
+# ------------------------------------------------
+
+# 5. What is the differences between any , or
+
+print ("we use 'any' if one of the conditions is true, and we use 'or' if one of specific conditions is true")
+
+
+print ('--------------------------------')
+# ------------------------------------------------
