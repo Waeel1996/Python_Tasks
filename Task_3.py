@@ -3,7 +3,7 @@
 
 x = 10
 if x > 15 :
-    print ('10 is bigger thanx 15')
+    print ('10 is bigger than 15')
 else :
     print ('10 is smaller than 15')
 
