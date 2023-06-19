@@ -91,3 +91,11 @@ print('as soon as the condition is true, python will stop checking the other con
 
 print ('--------------------------------')
 # ------------------------------------------------
+
+# 13. in elif we use else for ... ?
+
+print ('In Python, the "else" can be used with "elif" statements to handle cases when none of the preceding conditions in the "if"-"elif" chain are satisfied. It provides a default action to be executed if all the previous conditions evaluate to False.')
+
+
+print ('--------------------------------')
+# ------------------------------------------------
