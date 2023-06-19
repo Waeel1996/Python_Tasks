@@ -33,3 +33,13 @@ print ("we use 'any' if one of the conditions is true, and we use 'or' if one of
 
 print ('--------------------------------')
 # ------------------------------------------------
+
+# 6. If we need all the conditions to be true we will use ....
+
+print ("If we need all the conditions to be true we will use : all")
+
+
+print ('--------------------------------')
+# ------------------------------------------------
+
+#
