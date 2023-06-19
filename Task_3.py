@@ -83,3 +83,11 @@ print (True) if x >= 10 else print (False)
 
 print ('--------------------------------')
 # ------------------------------------------------
+
+# 12. in elif , python will check all the conditions no matter what ?
+
+print('as soon as the condition is true, python will stop checking the other conditions')
+
+
+print ('--------------------------------')
+# ------------------------------------------------
