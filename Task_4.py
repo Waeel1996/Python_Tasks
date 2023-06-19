@@ -63,7 +63,19 @@ for x in range (10,21):
 print ('--------------------------------')
 # ------------------------------------------------
 
+# 7. How to get numbers from 10 to 100 with 3 at each step using range
+
+
 for x in range (10,101,3):
+    print (x)
+
+
+print ('--------------------------------')
+# ------------------------------------------------
+
+# 8. Get a list of even numbers from 1 to 100 using for
+
+for x in range (0,101,2):
     print (x)
 
 
