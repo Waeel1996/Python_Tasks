@@ -116,3 +116,11 @@ print ('y = 11/3 =',(y))
 
 print ('--------------------------------')
 # ------------------------------------------------
+
+#12. Can we divide 11 by 3 and get an integer number ?
+
+print ('yes we can using the python Floor Divisio Operator')
+y = 11
+print ('y =', (y))
+y = (y) // 3
+print ('y = 11/3 =', (y), type(y))
