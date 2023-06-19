@@ -18,3 +18,4 @@ print ("we use 'all' if all conditions all true")
 print ('--------------------------------')
 # ------------------------------------------------
 
+# 4. What is the differences between all , and
