@@ -76,3 +76,12 @@ func1 = lambda x,y : x+y; print (func1(1,2))
 
 print ('--------------------------------')
 # ------------------------------------------------
+
+# 8. Write the difference between the local variable and global variable
+
+print ('Global variables are declared outside the functions whereas local variables are declared within the functions')
+
+
+
+print ('--------------------------------')
+# ------------------------------------------------
