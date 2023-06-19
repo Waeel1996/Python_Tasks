@@ -66,3 +66,10 @@ print ("yes, elif can be used multiple times in one code")
 print ('--------------------------------')
 # ------------------------------------------------
 
+# 10. Can we use more than one else
+
+print ('No, in Python you cannot use multiple "else" blocks in a row. The "else" condition is typically used after an "if" condition to execute code when none of the previous conditions were met. However, there can only be a single "else" block immediately following the previous block.')
+
+
+print ('--------------------------------')
+# ------------------------------------------------
