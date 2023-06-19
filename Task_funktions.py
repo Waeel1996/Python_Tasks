@@ -45,3 +45,15 @@ print ('f1 =',(f1))
 
 print ('--------------------------------')
 # ------------------------------------------------
+
+# 5. Create a function that can take any number of arguments and print the sum of them
+
+def func1(x,y):
+    return x+y
+f1=func1(2,3)
+print ('f1 =',(f1))
+
+
+
+print ('--------------------------------')
+# ------------------------------------------------
