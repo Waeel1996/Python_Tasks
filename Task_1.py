@@ -118,7 +118,7 @@ print ('--------------------------------')
 
 ## 11. Can we use semi colon ; with python
 
-print ("yes, but python doesn't require it to be used")
+print ("yes,  Python does not require semi-colons to terminate statements. Semicolons can be used to delimit statements if you wish to put multiple statements on the same line.")
 
 
 print ('--------------------------------')
