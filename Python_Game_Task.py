@@ -25,6 +25,14 @@ def game1 ():
 def game2 ():
     start = int(input ('Enter the start : '))
     end = int(input ('Enter the end: '))
+    even=[]
+    odd=[]
+    for x in range(start,end+1):
+        if x%2==0:
+            even.append(x)
+        else:
+            odd.append(x)
+    print(even)
+    print(odd)
 
-game1()
 game2()
