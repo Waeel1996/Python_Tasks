@@ -19,41 +19,42 @@ class games:
     1: Game1
     2: Game2
     3: Exit''')
-    if user_choice ==3:
-       return
-    elif user_choice == 1:
-        self.game1()
-    elif user_choice == 1:
-        self.game2()
-        
+        user_choice = int(input('Enter Game Number : ' ))
+        if user_choice ==3:
+            return
+        elif user_choice == 1:
+            self.game1()
+        elif user_choice == 2:
+            self.game2()
+    def game1 (self):
+        names = input ('Enter Names : ')
+        names_list = names.split(',')
+        print (names_list)
+        lenght = int(input('Enter lenght : '))
+        for x in names_list:
+            if len(x)>lenght:
+                print(x)
 
 
-
-
-
-
-
-def game1 ():
-    names = input ('Enter Names : ')
-    names_list = names.split(',')
-    print (names_list)
-    lenght = int(input('Enter lenght : '))
-    for x in names_list:
-        if len(x)>lenght:
-            print(x)
-
-
-def game2 ():
-    start = int(input ('Enter the start : '))
-    end = int(input ('Enter the end: '))
-    even=[]
-    odd=[]
-    for x in range(start,end+1):
-        if x%2==0:
-            even.append(x)
-        else:
-            odd.append(x)
-    print(even)
-    print(odd)
+    def game2 (self):
+        start = int(input ('Enter the start : '))
+        end = int(input ('Enter the end: '))
+        even=[]
+        odd=[]
+        for x in range(start,end+1):
+            if x%2==0:
+                even.append(x)
+            else:
+                odd.append(x)
+        print(even)
+        print(odd)
 
 g1 = games()
+
+
+
+
+
+
+
+
