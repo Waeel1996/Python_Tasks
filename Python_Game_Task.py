@@ -1,5 +1,5 @@
 '''
-
+                        ***********************
 -start : welcome message ; games options
 -enter game number:
     -game1 : names seperated by length --> names < length
