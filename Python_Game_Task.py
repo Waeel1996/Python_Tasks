@@ -22,4 +22,9 @@ def game1 ():
             print(x)
 
 
+def game2 ():
+    start = int(input ('Enter the start : '))
+    end = int(input ('Enter the end: '))
+
 game1()
+game2()
