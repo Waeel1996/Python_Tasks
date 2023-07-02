@@ -27,11 +27,10 @@ class Game:
                 self.game1()
             elif user_choice == 2:
                 self.game2()
-            user_input=input("press any key to play again,'n' to exit ;)")
-            if user_input == 'n':
+            user_input=input('press any key to play again or X to Exit : ')
+            if user_input == 'x':
                 break
 
-                
     def game1 (self):
         names = input ('Enter Names : ')
         names_list = names.split(',')
