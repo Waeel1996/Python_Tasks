@@ -12,6 +12,27 @@
 '''
 
 
+class games:
+    def __init__(self):
+        print (''' Welcome to our Game.
+ Enter your Choice :
+    1: Game1
+    2: Game2
+    3: Exit''')
+    if user_choice ==3:
+       return
+    elif user_choice == 1:
+        self.game1()
+    elif user_choice == 1:
+        self.game2()
+        
+
+
+
+
+
+
+
 def game1 ():
     names = input ('Enter Names : ')
     names_list = names.split(',')
@@ -35,4 +56,4 @@ def game2 ():
     print(even)
     print(odd)
 
-game2()
+g1 = games()
