@@ -19,13 +19,13 @@ class Game:
      Enter your Choice :
         1: Game1
         2: Game2
-        3: Exit''')
+        3: Exit''') 
             user_choice = int(input('Enter Game Number : ' ))
-            if user_choice ==3:
+            if user_choice ==3: 
                 break
-            elif user_choice == 1:
+            elif user_choice == 1: 
                 self.game1()
-            elif user_choice == 2:
+            elif user_choice == 2: 
                 self.game2()
             user_input=input('press any key to play again or X to Exit : ')
             if user_input == 'x':
